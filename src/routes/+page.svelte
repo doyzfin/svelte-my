@@ -7,7 +7,7 @@
 </svelte:head>
 
 <section>
-	<h1 class="font-bold text-xl">Muhammad Alfin Ramadhan</h1>
+	<h1 class="font-bold text-xl animate-bounce">Muhammad Alfin Ramadhan</h1>
 </section>
 
 <style>
